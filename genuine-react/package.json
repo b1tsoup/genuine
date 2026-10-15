@@ -1,0 +1,9 @@
+{
+  "name": "genuine-react",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs"
+  }
+}
